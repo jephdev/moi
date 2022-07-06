@@ -9,7 +9,7 @@
             "email": "jeph.developer@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"jephdev\\Moi\\": "src/"}
     },
