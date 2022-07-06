@@ -1,6 +1,6 @@
 {
     "name": "jephdev/moi",
-    "description": "My first composer package",
+    "description": "A service for retrieving users via a remote API",
     "type": "project",
     "license": "MIT",
     "authors": [
