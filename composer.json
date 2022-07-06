@@ -1,0 +1,16 @@
+{
+    "name": "jephdev/moi",
+    "description": "My first composer package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jephthah Efereyan",
+            "email": "jeph.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
