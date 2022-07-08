@@ -11,7 +11,9 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"jephdev\\Moi\\": "src/"}
+        "psr-4": {"Jephdev\\Moi\\": "src/"}
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "7.4.5"
+    }
 }
